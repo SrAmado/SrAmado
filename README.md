@@ -1,6 +1,6 @@
 # Hi, my name is Arlenson.
 
-Systems Engineer, software engineering specialist, software developer with Spring Boot backend, Java, Angular frontend. Design and construction of databases, software architecture, microservices. Management of Mysql, Postgrest, SQL Server and Oracle database engines. Apache, tomcat, wildfly application servers, AWS
+Systems Engineer, software engineering specialist, software developer with Spring Boot and Java backend, Angular frontend. Design and construction of databases, software architecture, microservices. Management of Mysql, Postgrest, SQL Server and Oracle database engines. Apache, tomcat, wildfly application servers, AWS
 
 ##### I'm study spring boot and Java.
 ##### I'm study English.
