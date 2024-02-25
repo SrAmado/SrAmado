@@ -1,9 +1,17 @@
-Hola,
+# Hi, my name is Arlenson.
 
-En este repositorio encontras codigo de spring boot y angular, react.
+Systems Engineer, software engineering specialist, software developer with Spring Boot backend, Java, Angular frontend. Design and construction of databases, software architecture, microservices. Management of Mysql, Postgrest, SQL Server and Oracle database engines. Apache, tomcat, wildfly application servers, AWS
 
-Estoy estudiando spring boot.
-Estoy trabajon con spring boot.
+##### I'm study spring boot and Java.
+##### I'm study English.
+##### I'm job with Java, spring boot, Angular and Kotlin.
 
-Contacto: arlenson52@gmail.com.
-Linkedin: https://www.linkedin.com/in/arlenson-amado-gonzalez-a33705159
+<br>
+
+#### Reading these Books
+##### Clean Architecture
+##### Clean Code
+##### Design Patterns
+
+#### Contact: arlenson52@gmail.com and roky-1920@hotmail.com.
+#### Linkedin: https://www.linkedin.com/in/arlenson-amado/
